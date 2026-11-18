@@ -1,0 +1,17 @@
+# Secrets / config
+.env
+
+# Logs
+auth.log
+*.log
+
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# npm
+npm-debug.log*
+package-lock.json
